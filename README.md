@@ -1,6 +1,6 @@
 ## 🏔️ Hello traveller! 
 
-My name is Anastasia, and I'm a passionate junior software developer with a focus on frontend development. My long-term goal is to grow intp a fullstack enginer.
+My name is Anastasia, and I'm a passionate junior software developer with a focus on frontend development. My long-term goal is to grow into a fullstack enginer.
 
 I’m currently working on my *BookNook Media Library* to deepen my ecperience in Typescript, Angular and Java.
 
