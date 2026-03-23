@@ -1,16 +1,35 @@
-## Hi there 👋
+## 🏔️ Hello traveller! 
 
-<!--
-**akeshvari/aKeshvari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Anastasia, and I'm a passionate junior software developer with a focus on frontend development. My long-term goal is to grow intp a fullstack enginer.
 
-Here are some ideas to get you started:
+I’m currently working on my *BookNook Media Library* to deepen my ecperience in Typescript, Angular and Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Tech and Design Tools
+
+**Frontend**
+- Java- / Typescript
+- HTML & Css
+- Angular
+
+**Backend**
+- Java
+- SQL
+
+**Design**
+- Adobe Photoshop, Illustrator, InDesign, Fresco
+- Figma
+- Procreate
+
+---
+
+>As a side quest I'm learning React, PHP, Python and SQL.
+>
+>My next milestones are gonna be Vue.js, Next.js, C++ and Ruby.
+
+---
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/anastasia-keshvari)!
+
+
+✨Thank you for visiting my Page!✨
