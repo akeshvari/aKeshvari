@@ -5,7 +5,7 @@ My name is Anastasia, and I'm a passionate junior software developer with a focu
 I’m currently working on my *BookNook Media Library* to deepen my ecperience in Typescript, Angular and Java.
 
 ---
-### Tech and Design Tools
+### ⚙️ Tech and Design Tools
 
 **Frontend**
 - Java- / Typescript
