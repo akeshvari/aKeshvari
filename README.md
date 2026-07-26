@@ -2,7 +2,7 @@
 
 My name is Anastasia, and I'm a passionate junior software developer with a focus on frontend development. My long-term goal is to grow into a fullstack engineer.
 
-I’m currently working on my *BookNook Media Library* to deepen my experience in TypeScript, Angular, and Java.
+I’m currently working on my *BookNook Media Library* to deepen my knowledge in TypeScript, Angular, and Java.
 
 ---
 ### ⚙️ Tech and Design Tools
@@ -25,7 +25,7 @@ I’m currently working on my *BookNook Media Library* to deepen my experience i
 
 >As a side quest I'm learning React, PHP, Python and SQL.
 >
->My next milestones are gonna be Vue.js, Next.js, C++ and Ruby.
+>My next milestones will be Vue.js, Next.js, C++ and Ruby.
 
 ---
 
